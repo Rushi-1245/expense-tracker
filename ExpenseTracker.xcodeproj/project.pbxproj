@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E843828E2E41DDC4002390F6 /* ExpenseTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpenseTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED21E98E2D95286200DC60F1 /* ExpenseTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpenseTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E84382902E41DDC4002390F6 /* ExpenseTracker */ = {
+		ED21E9902D95286200DC60F1 /* ExpenseTracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ExpenseTracker;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E843828B2E41DDC4002390F6 /* Frameworks */ = {
+		ED21E98B2D95286200DC60F1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E84382852E41DDC4002390F6 = {
+		ED21E9852D95286200DC60F1 = {
 			isa = PBXGroup;
 			children = (
-				E84382902E41DDC4002390F6 /* ExpenseTracker */,
-				E843828F2E41DDC4002390F6 /* Products */,
+				ED21E9902D95286200DC60F1 /* ExpenseTracker */,
+				ED21E98F2D95286200DC60F1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E843828F2E41DDC4002390F6 /* Products */ = {
+		ED21E98F2D95286200DC60F1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E843828E2E41DDC4002390F6 /* ExpenseTracker.app */,
+				ED21E98E2D95286200DC60F1 /* ExpenseTracker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,66 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E843828D2E41DDC4002390F6 /* ExpenseTracker */ = {
+		ED21E98D2D95286200DC60F1 /* ExpenseTracker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E843829C2E41DDC5002390F6 /* Build configuration list for PBXNativeTarget "ExpenseTracker" */;
+			buildConfigurationList = ED21E99C2D95286500DC60F1 /* Build configuration list for PBXNativeTarget "ExpenseTracker" */;
 			buildPhases = (
-				E843828A2E41DDC4002390F6 /* Sources */,
-				E843828B2E41DDC4002390F6 /* Frameworks */,
-				E843828C2E41DDC4002390F6 /* Resources */,
+				ED21E98A2D95286200DC60F1 /* Sources */,
+				ED21E98B2D95286200DC60F1 /* Frameworks */,
+				ED21E98C2D95286200DC60F1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E84382902E41DDC4002390F6 /* ExpenseTracker */,
+				ED21E9902D95286200DC60F1 /* ExpenseTracker */,
 			);
 			name = ExpenseTracker;
 			packageProductDependencies = (
 			);
 			productName = ExpenseTracker;
-			productReference = E843828E2E41DDC4002390F6 /* ExpenseTracker.app */;
+			productReference = ED21E98E2D95286200DC60F1 /* ExpenseTracker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E84382862E41DDC4002390F6 /* Project object */ = {
+		ED21E9862D95286200DC60F1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1610;
-				LastUpgradeCheck = 1610;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					E843828D2E41DDC4002390F6 = {
-						CreatedOnToolsVersion = 16.1;
+					ED21E98D2D95286200DC60F1 = {
+						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = E84382892E41DDC4002390F6 /* Build configuration list for PBXProject "ExpenseTracker" */;
+			buildConfigurationList = ED21E9892D95286200DC60F1 /* Build configuration list for PBXProject "ExpenseTracker" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = E84382852E41DDC4002390F6;
+			mainGroup = ED21E9852D95286200DC60F1;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E843828F2E41DDC4002390F6 /* Products */;
+			productRefGroup = ED21E98F2D95286200DC60F1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E843828D2E41DDC4002390F6 /* ExpenseTracker */,
+				ED21E98D2D95286200DC60F1 /* ExpenseTracker */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E843828C2E41DDC4002390F6 /* Resources */ = {
+		ED21E98C2D95286200DC60F1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +117,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E843828A2E41DDC4002390F6 /* Sources */ = {
+		ED21E98A2D95286200DC60F1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +127,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		E843829A2E41DDC5002390F6 /* Debug */ = {
+		ED21E99A2D95286500DC60F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -160,6 +162,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = F45YXDH2VQ;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -177,7 +180,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -188,7 +191,7 @@
 			};
 			name = Debug;
 		};
-		E843829B2E41DDC5002390F6 /* Release */ = {
+		ED21E99B2D95286500DC60F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,6 +226,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = F45YXDH2VQ;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -234,7 +238,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -244,84 +248,96 @@
 			};
 			name = Release;
 		};
-		E843829D2E41DDC5002390F6 /* Debug */ = {
+		ED21E99D2D95286500DC60F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ExpenseTracker/Preview Content\"";
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_ASSET_PATHS = "\"ExpenseTracker/Resources/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Expense Tracker";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rushi.expense.ExpenseTracker;
+				MARKETING_VERSION = 2.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pallabmaiti.ExpenseTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		E843829E2E41DDC5002390F6 /* Release */ = {
+		ED21E99E2D95286500DC60F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ExpenseTracker/Preview Content\"";
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_ASSET_PATHS = "\"ExpenseTracker/Resources/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Expense Tracker";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rushi.expense.ExpenseTracker;
+				MARKETING_VERSION = 2.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pallabmaiti.ExpenseTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E84382892E41DDC4002390F6 /* Build configuration list for PBXProject "ExpenseTracker" */ = {
+		ED21E9892D95286200DC60F1 /* Build configuration list for PBXProject "ExpenseTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E843829A2E41DDC5002390F6 /* Debug */,
-				E843829B2E41DDC5002390F6 /* Release */,
+				ED21E99A2D95286500DC60F1 /* Debug */,
+				ED21E99B2D95286500DC60F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E843829C2E41DDC5002390F6 /* Build configuration list for PBXNativeTarget "ExpenseTracker" */ = {
+		ED21E99C2D95286500DC60F1 /* Build configuration list for PBXNativeTarget "ExpenseTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E843829D2E41DDC5002390F6 /* Debug */,
-				E843829E2E41DDC5002390F6 /* Release */,
+				ED21E99D2D95286500DC60F1 /* Debug */,
+				ED21E99E2D95286500DC60F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E84382862E41DDC4002390F6 /* Project object */;
+	rootObject = ED21E9862D95286200DC60F1 /* Project object */;
 }
